@@ -100,3 +100,13 @@
 .logomark span:nth-child(2) { background: linear-gradient(135deg, #3E8098, #86BFD2); color: #2A404E; }
 .logomark span:nth-child(3) { background: linear-gradient(135deg, #B89261, #C19D83); color: #2A404E; }
 .logomark span:nth-child(4) { background: linear-gradient(135deg, #EED5B7, #C19D83); color: #2A404E; }
+[class*="badge"], 
+[id*="badge"], 
+[class*="lovable"], 
+[id*="lovable"], 
+.fixed.bottom-4.right-4 {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+}
