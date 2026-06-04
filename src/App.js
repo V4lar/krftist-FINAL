@@ -1,15 +1,15 @@
 // import "@/App.css"
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import { Toaster } from "@/components/ui/sonner";
-import Layout from "@/components/krftist/Layout";
-import Home from "@/pages/Home";
-import ServicesPage from "@/pages/ServicesPage";
-import ServiceDetail from "@/pages/ServiceDetail";
-import WorkPage from "@/pages/WorkPage";
-import ProcessPage from "@/pages/ProcessPage";
-import ContactPage from "@/pages/ContactPage";
-import ArticlesPage from "@/pages/ArticlesPage";
-import ReelPage from "@/pages/ReelPage";
+// import { BrowserRouter, Routes, Route } from "react-router-dom";
+// import { Toaster } from "@/components/ui/sonner";
+// import Layout from "@/components/krftist/Layout";
+// import Home from "@/pages/Home";
+// import ServicesPage from "@/pages/ServicesPage";
+// import ServiceDetail from "@/pages/ServiceDetail";
+// import WorkPage from "@/pages/WorkPage";
+// import ProcessPage from "@/pages/ProcessPage";
+// import ContactPage from "@/pages/ContactPage";
+// import ArticlesPage from "@/pages/ArticlesPage";
+// import ReelPage from "@/pages/ReelPage";
 
 function App() {
   return (
